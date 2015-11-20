@@ -498,6 +498,14 @@
     <changeSet context="demo" author="ole" id="ole_dlvr_stat_cat_t">
         <loadData tableName="ole_dlvr_stat_cat_t" file="ole-inst/ole_dlvr_stat_cat_t.csv" />
     </changeSet>
+    
+    <changeSet context="demo" author="ole" id="oole_notice_type_config_t">
+        <loadData tableName="ole_dlvr_stat_cat_t" file="ole-inst/ole_notice_type_config_t.csv" />
+    </changeSet>
+    
+    <changeSet context="demo" author="ole" id="ole_notc_cntnt_config_t">
+        <loadData tableName="ole_dlvr_stat_cat_t" file="ole-inst/ole_notc_cntnt_config_t.csv" />
+    </changeSet>
 
     <changeSet context="demo" author="ole" id="ole_dlvr_borr_typ_t">
         <loadData tableName="ole_dlvr_borr_typ_t" file="ole-inst/ole_dlvr_borr_typ_t.csv" />
