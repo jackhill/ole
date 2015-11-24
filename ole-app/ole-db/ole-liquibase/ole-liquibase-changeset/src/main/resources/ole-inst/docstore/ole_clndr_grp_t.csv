@@ -1,2 +1,14 @@
-"OLE_CLNDR_GRP_ID","OBJ_ID","VER_NBR","CLNDR_GRP_CD","CLNDR_GRP_NM","ROW_ACT_IND"
-
+OLE_CLNDR_GRP_ID,OBJ_ID,VER_NBR,CLNDR_GRP_CD,CLNDR_GRP_NM,ROW_ACT_IND
+10,PERKINS,1,GRP_10,"Perkins Library",Y
+11,DKU,1,GRP_11,"Duke Kunshan University",Y
+12,DIVINITY,1,GRP_12,"Divinity School Library",Y
+13,FORD,1,GRP_13,"Ford Library",Y
+14,LAW,1,GRP_14,"Goodson Law library",Y
+15,LILLY,1,GRP_15,"Lilly Library",Y
+16,LINK,1,GRP_16,"The Link",Y
+17,LSC,1,GRP_17,"Library Service Center",Y
+18,MARINE,1,GRP_18,"Marine Lab Library",Y
+19,MCL,1,GRP_19,"Medical Center Library",Y
+20,MUSIC,1,GRP_20,"Music Library",Y
+21,RUBENSTEIN,1,GRP_21,"Rubenstein Library",Y
+22,UARCHIVES,1,GRP_22,"University Archives",Y

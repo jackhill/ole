@@ -1,1 +1,25 @@
-OLE_CRCL_DSK_CODE,OLE_CRCL_DSK_PUB_NAME,OLE_CRCL_DSK_STAFF_NAME,ACTV_IND,PK_UP_LOCN_IND,ASR_PK_UP_LOCN_IND,HLD_DAYS,SLVNG_LAG_TIM,PRNT_SLP_IND,OLE_CRCL_DSK_ID,OLE_CLNDR_GRP_ID
+OLE_CRCL_DSK_CODE,OLE_CRCL_DSK_PUB_NAME,OLE_CRCL_DSK_STAFF_NAME,ACTV_IND,PK_UP_LOCN_IND,ASR_PK_UP_LOCN_IND,HLD_DAYS,RQST_EXPIRTIN_DAYS,SLVNG_LAG_TIM,PRNT_SLP_IND,OLE_CRCL_DSK_ID,OLE_CLNDR_GRP_ID,HOLD_FORMAT,HOLD_QUEUE,REPLY_TO_EMAIL
+PERKNCIRC,"Perkins Circulation","Perkins Circulation",Y,Y,N,5,90,2400,Y,1,10,RegularPrinter,Y,perkins-requests@duke.edu
+LAWCIRC,"Goodson Law Circulation","Goodson Law Circulation",Y,Y,N,5,90,2400,Y,10,14,RegularPrinter,Y,cir@law.duke.edu
+LINKCIRC,"The Link Circulation","The Link Circulation",Y,Y,N,5,90,2400,Y,11,16,RegularPrinter,Y,ddi-info@duke.edu
+MCLCIRC,"Medical Center Circulation","Medical Center Circulation",Y,Y,N,5,90,2400,Y,12,19,RegularPrinter,Y," mclcirc@mc.duke.edu"
+DKUCIRC,"Duke Kunshan Circulation","Duke Kunshan Circulation",Y,Y,N,5,90,2400,Y,13,22,RegularPrinter,Y,perkins-requests@duke.edu
+ARTAH,"AAHVS (Smith)","AAHVS (Smith)",Y,Y,N,5,90,2400,Y,14,10,RegularPrinter,Y,perkins-requests@duke.edu
+CDOCS,"Center for Documentary Studies","Center for Documentary Studies",Y,Y,N,5,90,2400,Y,15,10,RegularPrinter,Y,perkins-requests@duke.edu
+FRKLN,"John Hope Franklin Center","John Hope Franklin Center",Y,Y,N,5,90,2400,Y,16,10,RegularPrinter,Y,perkins-requests@duke.edu
+NASHR,"Nasher - Museum Staff Only","Nasher - Museum Staff Only",Y,Y,N,5,90,2400,Y,17,10,RegularPrinter,Y,perkins-requests@duke.edu
+SMITH,"Smith Building","Smith Building",Y,Y,N,5,90,2400,Y,18,10,RegularPrinter,Y,perkins-requests@duke.edu
+SNFRD,"Sanford School of Pub Policy","Sanford School of Pub Policy",Y,Y,N,5,90,2400,Y,19,10,RegularPrinter,Y,perkins-requests@duke.edu
+LILLYCIRC,"Lilly Circulation","Lilly Circulation",Y,Y,N,5,90,2400,Y,2,15,RegularPrinter,Y,lilly-requests@duke.edu
+FHI,"Franklin Humanities Institute","Franklin Humanities Institute",Y,Y,N,5,90,2400,Y,20,10,RegularPrinter,Y,perkins-requests@duke.edu
+GROSS,Gross,Gross,Y,Y,N,5,90,2400,Y,21,10,RegularPrinter,Y,perkins-requests@duke.edu
+MCLPA,"MCL/PAs ONLY - 800 S. Duke St.","MCL PAs ONLY - 800 S. Duke St.",Y,Y,N,5,90,2400,Y,22,10,RegularPrinter,Y," mclcirc@mc.duke.edu"
+MCLDP,"MCL/DPTs ONLY - Erwin Square","MCL/DPTs ONLY - Erwin Square",Y,Y,N,5,90,2400,Y,23,10,RegularPrinter,Y," mclcirc@mc.duke.edu"
+MCSON,"MCL/SON ONLY - 307 Trent Drive","MCL/SON ONLY - 307 Trent Drive",Y,Y,N,5,90,2400,Y,24,10,RegularPrinter,Y," mclcirc@mc.duke.edu"
+BESCIRC,"BES Circulation","BES Circulation",Y,Y,N,5,90,2400,Y,3,10,RegularPrinter,Y,perkins-requests@duke.edu
+DIVCIRC,"Divinity Circulation","Divinity Circulation",Y,Y,N,5,90,2400,Y,4,12,RegularPrinter,Y,divcirc@duke.edu
+MARINECIRC,"Marine Lab Circulation","Marine Lab Circulation",Y,Y,N,5,90,2400,Y,5,18,RegularPrinter,Y,marlib@duke.edu
+MUSICCIRC,"Music Circulation","Music Circulation",Y,Y,N,5,90,2400,Y,6,20,RegularPrinter,Y,music-requests@duke.edu
+RUBENCIRC,"Rubenstein Circulation","Rubenstein Circulation",Y,Y,N,5,90,2400,Y,7,21,RegularPrinter,Y,perkins-requests@duke.edu
+LSCCIRC,"Library Service Center Circulation","Library Service Center Circulation",Y,Y,N,5,90,2400,Y,8,17,RegularPrinter,Y,perkins-requests@duke.edu
+FORDCIRC,"Ford Circulation","Ford Circulation",Y,Y,N,5,90,2400,Y,9,13,RegularPrinter,Y,ford-library-circulation@fuqua.duke.edu

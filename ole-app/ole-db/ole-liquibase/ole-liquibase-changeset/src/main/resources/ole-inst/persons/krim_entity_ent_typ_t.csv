@@ -1,1 +1,16 @@
-"ENT_TYP_CD","ENTITY_ID","OBJ_ID","ACTV_IND"
+ENT_TYP_CD,ENTITY_ID,OBJ_ID,VER_NBR,ACTV_IND,LAST_UPDT_DT
+"PERSON","ayse","52aa79b8-0f80-4d59-b5c3-62742a11b048",1,"Y",NULL
+"PERSON","circmgr","650f2308-ec55-4256-a0fe-f479cba4f57b",1,"Y",NULL
+"PERSON","describemgr","0ce0074d-5b26-413b-bab3-4e64c89d0a88",2,"Y",NULL
+"PERSON","divcircmgr","f9a193d9-b7cb-4242-8353-c6f769940da4",1,"Y",NULL
+"PERSON","dkucircmgr","911219c6-d696-401e-8763-3245bc7744d7",1,"Y",NULL
+"PERSON","fordcircmgr","cb52f9e3-e0f1-4ccd-80ce-24baf74f7e9d",1,"Y",NULL
+"PERSON","jeff","649c6462-f5a6-4c5b-a42a-14a7c50094cc",1,"Y",NULL
+"PERSON","karen","9f423be4-7fd5-4f80-9e2b-3be17549eaa2",1,"Y",NULL
+"PERSON","lawcircmgr","c2769cd5-2970-41c5-9a8a-4f33138951e8",1,"Y",NULL
+"PERSON","lillycircmgr","299a2287-6bdb-4c23-af07-4419884ede34",1,"Y",NULL
+"PERSON","linkcircmgr","25c672a2-5cc7-44f4-b74b-769609cadddd",1,"Y",NULL
+"PERSON","marinecircmgr","22925344-a758-41b2-ba78-835365fbcdd8",1,"Y",NULL
+"PERSON","mclcircmgr","7d3f7f71-1144-4e1b-bbca-f6a750dad206",1,"Y",NULL
+"PERSON","mohamed","5adab9fe-1144-4226-808d-3f498e00bbd1",1,"Y",NULL
+"PERSON","musiccircmgr","8cd6ce46-0621-4a7e-832f-6c071aafd263",1,"Y",NULL
