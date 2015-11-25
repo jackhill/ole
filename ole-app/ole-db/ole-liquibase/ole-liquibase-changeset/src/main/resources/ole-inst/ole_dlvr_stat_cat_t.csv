@@ -1,0 +1,98 @@
+OLE_DLVR_STAT_CAT_ID,OLE_DLVR_STAT_CAT_CD,OLE_DLVR_STAT_CAT_DESC,OLE_DLVR_STAT_CAT_NM,OBJ_ID,VER_NBR,ROW_ACT_IND
+AA,ADF,"Other - ADF","Other - ADF",42a9e6fa-5ab5-4df8-853d-83d124d82a3f,1,Y
+AB,AdjunctProf,"Other - Adjunct Professor","Other - Adjunct Professor",d127cca0-0216-11e4-9191-0800200c9a66,1,Y
+AC,Alumni,"Other - Alumni","Other - Alumni",d127cca1-0216-11e4-9191-0800200c9a66,1,Y
+AD,Benefactor,"Other - Benefactor","Other - Benefactor",d127cca2-0216-11e4-9191-0800200c9a66,1,Y
+AE,ContEd,"Other - Continuing Ed","Other - Continuing Ed",d127cca3-0216-11e4-9191-0800200c9a66,1,Y
+AF,DAM_Docent,"Other - DAM docent","Other - DAM docent",d127cca4-0216-11e4-9191-0800200c9a66,1,Y
+AG,DHS,"Other - Duke Health System","Other - Duke Health System",d127cca5-0216-11e4-9191-0800200c9a66,1,Y
+AH,OLLI,"Other - OLLI","Other - OLLI",d127cca6-0216-11e4-9191-0800200c9a66,1,Y
+AI,DurRes,"Other - Durham Resident","Other - Durham Resident",d127cca7-0216-11e4-9191-0800200c9a66,1,Y
+AJ,DRHOther,"Other - Durham Regional Hosp.","Other - Durham Regional Hosp.",d127cca8-0216-11e4-9191-0800200c9a66,1,Y
+AK,Emeriti,"Other - Emeriti","Other - Emeriti",d127cca9-0216-11e4-9191-0800200c9a66,1,Y
+AL,ExternalFac,"Other - External Faculty","Other - External Faculty",d127ccaa-0216-11e4-9191-0800200c9a66,1,Y
+AM,FQAlum,"Other - Fuqua Alumni","Other - Fuqua Alumni",d127ccab-0216-11e4-9191-0800200c9a66,1,Y
+AN,Family,"Other - Family","Other - Family",d127ccac-0216-11e4-9191-0800200c9a66,1,Y
+AO,FranklinCter,"Other - Franklin Center","Other - Franklin Center",d127ccad-0216-11e4-9191-0800200c9a66,1,Y
+AP,FriendsOfTheLib,"Other - Friends of the Library","Other - Friends of the Library",d127ccae-0216-11e4-9191-0800200c9a66,1,Y
+AQ,FQAffilitate,"Other - Fuqua Affilitate","Other - Fuqua Affilitate",d127ccaf-0216-11e4-9191-0800200c9a66,1,Y
+AR,General,"Other - General","Other - General",d127ccb0-0216-11e4-9191-0800200c9a66,1,Y
+AS,HealthProfessional,"Other - Health Professional","Other - Health Professional",d127ccb1-0216-11e4-9191-0800200c9a66,1,Y
+AT,LibraryEmerti,"Other - Library Emerti","Other - Library Emerti",d127ccb2-0216-11e4-9191-0800200c9a66,1,Y
+AU,LocalBus,"Other - Local Business","Other - Local Business",d127ccb3-0216-11e4-9191-0800200c9a66,1,Y
+AV,DUMCTempProg,"Other - DUMC Temp Progs","Other - DUMC Temp Progs",d127ccb4-0216-11e4-9191-0800200c9a66,1,Y
+AW,DUMCTempResearch,"Other - DUMC Temp Researcher","Other - DUMC Temp Researcher",d127ccb5-0216-11e4-9191-0800200c9a66,1,Y
+AX,Misc,"Other - Miscellanous","Other - Miscellanous",d127ccb6-0216-11e4-9191-0800200c9a66,1,Y
+AY,NCA&TGrad,"Other - NCA&T grad","Other - NCA&T grad",d127ccb7-0216-11e4-9191-0800200c9a66,1,Y
+AZ,NCSSMFac,"Other - NCSSM Faculty","Other - NCSSM Faculty",d127ccb8-0216-11e4-9191-0800200c9a66,1,Y
+BA,NHCFellow,"Other - NHC Fellow","Other - NHC Fellow",d127ccb9-0216-11e4-9191-0800200c9a66,1,Y
+BB,RetStaff,"Other - Retired Staff","Other - Retired Staff",d127ccba-0216-11e4-9191-0800200c9a66,1,Y
+BC,RTPEmp,"Other - RTP Employee","Other - RTP Employee",d127ccbb-0216-11e4-9191-0800200c9a66,1,Y
+BD,TIP,"Other - TIP","Other - TIP",d127ccbc-0216-11e4-9191-0800200c9a66,1,Y
+BE,Trustee,"Other - Trustee","Other - Trustee",d127ccbd-0216-11e4-9191-0800200c9a66,1,Y
+BF,TUNLFEL,"Other - TUNL-FEL","Other - TUNL-FEL",d127ccbe-0216-11e4-9191-0800200c9a66,1,Y
+BG,VAMC,"Other - VAMC","Other - VAMC",d127ccbf-0216-11e4-9191-0800200c9a66,1,Y
+BH,VisitMedStu,"Other - Visiting Med Student","Other - Visiting Med Student",d127ccc0-0216-11e4-9191-0800200c9a66,1,Y
+BI,VisitScholar,"Other - Visiting Scholar","Other - Visiting Scholar",d127ccc1-0216-11e4-9191-0800200c9a66,1,Y
+BJ,COSDiv,"Other - Course of Study Program (Divinity)","Other - Course of Study Program (Divinity)",d127ccc2-0216-11e4-9191-0800200c9a66,1,Y
+BK,PreCollegeProg,"Other - Pre-College Program","Other - Pre-College Program",d127f3b0-0216-11e4-9191-0800200c9a66,1,Y
+BL,LawAlumni,"Other - Law Alumni","Other - Law Alumni",d127f3b1-0216-11e4-9191-0800200c9a66,1,Y
+BM,Guest,"Other - Guest","Other - Guest",d127f3b2-0216-11e4-9191-0800200c9a66,1,Y
+DR,DRH,"Durham Regional Hospital","Durham Regional Hospital",d1281aca-0216-11e4-9191-0800200c9a66,1,Y
+FA,FacultyGen,"Faculty - General","Faculty - General",d127f3b3-0216-11e4-9191-0800200c9a66,1,Y
+FD,FacultyDiv,"Faculty - Divinity","Faculty - Divinity",d127f3b4-0216-11e4-9191-0800200c9a66,1,Y
+FE,FacultyEmeritus,"Faculty - Emeritus","Faculty - Emeritus",d127f3b5-0216-11e4-9191-0800200c9a66,1,Y
+FF,FacultyFQ,"Faculty - Fuqua","Faculty - Fuqua",d127f3b6-0216-11e4-9191-0800200c9a66,1,Y
+FL,FacultyLaw,"Faculty - Law","Faculty - Law",d127f3b7-0216-11e4-9191-0800200c9a66,1,Y
+FM,FacultyDUMC,"Faculty - DUMC","Faculty - DUMC",d127f3b8-0216-11e4-9191-0800200c9a66,1,Y
+FS,FacultyMusic,"Faculty - Music","Faculty - Music",d127f3b9-0216-11e4-9191-0800200c9a66,1,Y
+FV,FacultyVisiting,"Faculty - Visiting Faculty","Faculty - Visiting Faculty",d127f3ba-0216-11e4-9191-0800200c9a66,1,Y
+FW,FacultyVisitingDUMC,"Faculty - Visiting DUMC Faculty","Faculty - Visiting DUMC Faculty",d127f3bb-0216-11e4-9191-0800200c9a66,1,Y
+GA,GradResearchAssoc,"Grad - Research Associate","Grad - Research Associate",d127f3bc-0216-11e4-9191-0800200c9a66,1,Y
+GB,GradBES,"Grad - BES","Grad - BES",d127f3bd-0216-11e4-9191-0800200c9a66,1,Y
+GC,GradChem,"Grad - Chemistry","Grad - Chemistry",d127f3be-0216-11e4-9191-0800200c9a66,1,Y
+GD,GradDiv,"Grad - Divinity","Grad - Divinity",d127f3bf-0216-11e4-9191-0800200c9a66,1,Y
+GE,GradEngCompSci,"Grad - Engineering & CompSci","Grad - Engineering & CompSci",d127f3c0-0216-11e4-9191-0800200c9a66,1,Y
+GF,GradFQMBA,"Grad - Fuqua MBA","Grad - Fuqua MBA",d127f3c1-0216-11e4-9191-0800200c9a66,1,Y
+GG,GradReligion,"Grad - Religion","Grad - Religion",d127f3c2-0216-11e4-9191-0800200c9a66,1,Y
+GH,GradFQPhD,"Grad - Fuqua PhD","Grad - Fuqua PhD",d127f3c3-0216-11e4-9191-0800200c9a66,1,Y
+GL,GradLaw,"Grad - Law","Grad - Law",d127f3c4-0216-11e4-9191-0800200c9a66,1,Y
+GM,GradDUMC,"Grad - DUMC","Grad - DUMC",d127f3c5-0216-11e4-9191-0800200c9a66,1,Y
+GN,GradMarineLab,"Grad - Marine Lab","Grad - Marine Lab",d127f3c6-0216-11e4-9191-0800200c9a66,1,Y
+GP,GradMathPhys,"Grad - Math/Physics","Grad - Math/Physics",d127f3c7-0216-11e4-9191-0800200c9a66,1,Y
+GR,GradGeneral,"Grad - General","Grad - General",d127f3c8-0216-11e4-9191-0800200c9a66,1,Y
+GS,GradFQMMS,"Grad - Fuqua MMS","Grad - Fuqua MMS",d1281ac0-0216-11e4-9191-0800200c9a66,1,Y
+GW,GradFQWkendMBA,"Grad - Fuqua Weekend MBA","Grad - Fuqua Weekend MBA",d1281ac1-0216-11e4-9191-0800200c9a66,1,Y
+HA,HospitalAdminClerical,"Hospital - Administrative/Clerical","Hospital - Administrative/Clerical",d1281ac2-0216-11e4-9191-0800200c9a66,1,Y
+HC,HospitalClinTechnical,"Hospital - Clinical/Technical","Hospital - Clinical/Technical",d1281ac3-0216-11e4-9191-0800200c9a66,1,Y
+HN,HospitalStaffNurse,"Hospital - Staff Nurse","Hospital - Staff Nurse",d1281ac6-0216-11e4-9191-0800200c9a66,1,Y
+HR,HospitalResearchAssoc,"Hospital - Research Associate","Hospital - Research Associate",d1281ac7-0216-11e4-9191-0800200c9a66,1,Y
+HS,HospitalHouseStaff,"Hospital - House Staff","Hospital - House Staff",d1281ac5-0216-11e4-9191-0800200c9a66,1,Y
+HU,HospitalUndefined,"Hospital - Undefined","Hospital - Undefined",d1281ac4-0216-11e4-9191-0800200c9a66,1,Y
+HX,DUHSUnclassified,"Duke Health System Unclassified","Duke Health System Unclassified",d1281ac9-0216-11e4-9191-0800200c9a66,1,Y
+IN,Invalid,Invalid,Invalid,d1281acc-0216-11e4-9191-0800200c9a66,1,Y
+RC,RCH,"Raleigh Community Hospital","Raleigh Community Hospital",d1281acb-0216-11e4-9191-0800200c9a66,1,Y
+SB,StaffBES,"Staff - BES","Staff - BES",d1281acd-0216-11e4-9191-0800200c9a66,1,Y
+SC,StaffChem,"Staff - Chemistry","Staff - Chemistry",d1281ace-0216-11e4-9191-0800200c9a66,1,Y
+SE,StaffEngCompSci,"Staff - Engineering & CompSci","Staff - Engineering & CompSci",d1281acf-0216-11e4-9191-0800200c9a66,1,Y
+SL,StaffLibrary,"Staff - Library Staff","Staff - Library Staff",d1281ad0-0216-11e4-9191-0800200c9a66,1,Y
+SM,StaffDUMC,"Staff - DUMC","Staff - DUMC",d1281ad1-0216-11e4-9191-0800200c9a66,1,Y
+SN,StaffSchofNursing,"Staff - School of Nursing","Staff - School of Nursing",d1281ad2-0216-11e4-9191-0800200c9a66,1,Y
+SP,StaffMathPhys,"Staff - Math/Physics Staff","Staff - Math/Physics Staff",d1281ad3-0216-11e4-9191-0800200c9a66,1,Y
+ST,StaffGeneral,"Staff - General","Staff - General",d1281ad4-0216-11e4-9191-0800200c9a66,1,Y
+TA,NCCUFac,"TRLN - NCCU Faculty","TRLN - NCCU Faculty",d1281ad5-0216-11e4-9191-0800200c9a66,1,Y
+TB,NCCUGrad,"TRLN - NCCU Grad","TRLN - NCCU Grad",d1281ad6-0216-11e4-9191-0800200c9a66,1,Y
+TC,NCCUStaff,"TRLN - NCCU Staff","TRLN - NCCU Staff",d1281ad7-0216-11e4-9191-0800200c9a66,1,Y
+TD,NCCUUgrad,"TRLN - NCCU Ugrad","TRLN - NCCU Ugrad",d1281ad8-0216-11e4-9191-0800200c9a66,1,Y
+TE,NCSUFac,"TRLN - NCSU Faculty","TRLN - NCSU Faculty",d1281ad9-0216-11e4-9191-0800200c9a66,1,Y
+TF,NCSUGrad,"TRLN - NCSU Grad","TRLN - NCSU Grad",d1281ada-0216-11e4-9191-0800200c9a66,1,Y
+TG,NCSUStaff,"TRLN - NCSU Staff","TRLN - NCSU Staff",d12841d0-0216-11e4-9191-0800200c9a66,1,Y
+TH,NCSUUgrad,"TRLN - NCSU Ugrad","TRLN - NCSU Ugrad",d12841d1-0216-11e4-9191-0800200c9a66,1,Y
+TI,UNCFac,"TRLN - UNC Faculty","TRLN - UNC Faculty",d12841d2-0216-11e4-9191-0800200c9a66,1,Y
+TJ,UNCGrad,"TRLN - UNC Grad","TRLN - UNC Grad",d12841d3-0216-11e4-9191-0800200c9a66,1,Y
+TK,UNCStaff,"TRLN - UNC Staff","TRLN - UNC Staff",d12841d4-0216-11e4-9191-0800200c9a66,1,Y
+TL,UNCUgrad,"TRLN - UNC Ugrad","TRLN - UNC Ugrad",d12841d5-0216-11e4-9191-0800200c9a66,1,Y
+TR,TRLNUnknown,"TRLN - Unknown","TRLN - Unknown",d12841d6-0216-11e4-9191-0800200c9a66,1,Y
+UG,Undergrad,Undergraduate,Undergraduate,d12841d7-0216-11e4-9191-0800200c9a66,1,Y
+XC,Carrel,"Special - Carrel","Special - Carrel",d12841d8-0216-11e4-9191-0800200c9a66,1,Y
+XI,ILL,"Special - ILL","Special - ILL",d12841d9-0216-11e4-9191-0800200c9a66,1,Y

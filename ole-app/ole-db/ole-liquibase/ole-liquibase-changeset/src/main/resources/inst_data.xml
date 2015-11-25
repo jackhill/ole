@@ -251,6 +251,10 @@
     <changeSet context="demo" author="ole" id="krlc_cmp_t">
         <loadData tableName="krlc_cmp_t" file="ole-inst/attributes/krlc_cmp_t.csv"/>
     </changeSet>
+    
+       <changeSet context="demo" author="ole" id="krim_entity_t">
+        <loadData tableName="krim_entity_t" file="ole-inst/persons/krim_entity_t.csv"/>
+    </changeSet>
 
     <changeSet context="demo" author="ole" id="krim_dlgn_mbr_attr_data_t">
         <loadData tableName="krim_dlgn_mbr_attr_data_t" file="ole-inst/delegates/krim_dlgn_mbr_attr_data_t.csv"/>
@@ -296,9 +300,7 @@
         <loadData tableName="krim_entity_priv_pref_t" file="ole-inst/persons/krim_entity_priv_pref_t.csv"/>
     </changeSet>
 
-    <changeSet context="demo" author="ole" id="krim_entity_t">
-        <loadData tableName="krim_entity_t" file="ole-inst/persons/krim_entity_t.csv"/>
-    </changeSet>
+ 
 
     <changeSet context="demo" author="ole" id="krim_prncpl_t">
         <loadData tableName="krim_prncpl_t" file="ole-inst/persons/krim_prncpl_t.csv"/>
@@ -481,6 +483,32 @@
 
     <changeSet context="demo" author="ole" id="ole_bat_prcs_prfle_cnst_t">
         <loadData tableName="ole_bat_prcs_prfle_cnst_t" file="ole-inst/ole_bat_prcs_prfle_cnst_t.csv" />
+    </changeSet>
+
+    <!-- files added locally -->
+
+    <changeSet context="demo" author="ole" id="krim_grp_t">
+        <loadData tableName="krim_grp_t" file="ole-inst/groups/krim_grp_t.csv" />
+    </changeSet>
+
+    <changeSet context="demo" author="ole" id="krim_grp_mbr_t">
+        <loadData tableName="krim_grp_mbr_t" file="ole-inst/groups/krim_grp_mbr_t.csv" />
+    </changeSet>
+    
+    <changeSet context="demo" author="ole" id="ole_dlvr_stat_cat_t">
+        <loadData tableName="ole_dlvr_stat_cat_t" file="ole-inst/ole_dlvr_stat_cat_t.csv" />
+    </changeSet>
+    
+    <changeSet context="demo" author="ole" id="ole_dlvr_borr_typ_t">
+        <loadData tableName="ole_dlvr_borr_typ_t" file="ole-inst/ole_dlvr_borr_typ_t.csv" />
+    </changeSet>
+    
+    <changeSet context="demo" author="ole" id="ole_notice_type_config_t">
+        <loadData tableName="ole_notice_type_config_t" file="ole-inst/ole_notice_type_config_t.csv" />
+    </changeSet>
+    
+    <changeSet context="demo" author="ole" id="ole_notc_cntnt_config_t">
+        <loadData tableName="ole_notc_cntnt_config_t" file="ole-inst/ole_notc_cntnt_config_t.csv" />
     </changeSet>
 
 </databaseChangeLog>

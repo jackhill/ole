@@ -1,1 +1,6 @@
 "SHVLG_SCHM_ID","OBJ_ID","VER_NBR","SHVLG_SCHM_CD","SHVLG_SCHM_NM","SRC","SRC_DT","ROW_ACT_IND"
+"9","c8a8e91e-8c77-4ff3-a374-61871236ab2c","1","SSEP","Shelved Separately (SSEP)","MFHD 852 1st Indicator: http://www.loc.gov/marc/holdings/hd852.html","2015-11-13 00:00:00","Y"
+"10","813599e4-aea3-4a0d-8ed5-238ce7b04a6f","1","S2","Source Specified Subfield $2 (S2)","MFHD 852 1st Indicator: http://www.loc.gov/marc/holdings/hd852.html","2015-11-13 00:00:00","Y"
+"11","c939c2c6-921c-42d3-9696-fac900bfee09","1","OLDDEW","Old Dewey Call Number (OLDDEW)","Aleph","2015-11-13 00:00:00","Y"
+"12","bda447d4-be78-496e-b993-ae40db924006","1","LAWCOMM","Law School Comment (LAWCOMM)","Aleph","2015-11-13 00:00:00","Y"
+"13","b9d099fd-e240-43bc-9088-83121be6ff5e","1","PERIODCTR","Periodical Cutters (PERIODCTR)","Aleph","2015-11-13 00:00:00","Y"
