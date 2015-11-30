@@ -70,6 +70,7 @@ HR,HospitalResearchAssoc,"Hospital - Research Associate","Hospital - Research As
 HS,HospitalHouseStaff,"Hospital - House Staff","Hospital - House Staff",d1281ac5-0216-11e4-9191-0800200c9a66,1,Y
 HU,HospitalUndefined,"Hospital - Undefined","Hospital - Undefined",d1281ac4-0216-11e4-9191-0800200c9a66,1,Y
 HX,DUHSUnclassified,"Duke Health System Unclassified","Duke Health System Unclassified",d1281ac9-0216-11e4-9191-0800200c9a66,1,Y
+Hx,DUHSUnclassified,"Duke Health System Unclassified","Duke Health System Unclassified",bd0bd529-c770-42a1-8a9b-b65cb05c26e3,1,Y
 IN,Invalid,Invalid,Invalid,d1281acc-0216-11e4-9191-0800200c9a66,1,Y
 RC,RCH,"Raleigh Community Hospital","Raleigh Community Hospital",d1281acb-0216-11e4-9191-0800200c9a66,1,Y
 SB,StaffBES,"Staff - BES","Staff - BES",d1281acd-0216-11e4-9191-0800200c9a66,1,Y
