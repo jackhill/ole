@@ -2,7 +2,7 @@ OLE_CRCL_DSK_CODE,OLE_CRCL_DSK_PUB_NAME,OLE_CRCL_DSK_STAFF_NAME,ACTV_IND,PK_UP_L
 PERKNCIRC,"Perkins Circulation","Perkins Circulation",Y,Y,N,5,90,2400,Y,1,10,RegularPrinter,Y,perkins-requests@duke.edu
 LAWCIRC,"Goodson Law Circulation","Goodson Law Circulation",Y,Y,N,5,90,2400,Y,10,14,RegularPrinter,Y,cir@law.duke.edu
 LINKCIRC,"The Link Circulation","The Link Circulation",Y,Y,N,5,90,2400,Y,11,16,RegularPrinter,Y,ddi-info@duke.edu
-MCLCIRC,"Medical Center Circulation","Medical Center Circulation",Y,Y,N,5,90,2400,Y,12,19,RegularPrinter,Y," mclcirc@mc.duke.edu"
+MCLCIRC,"Medical Center Circulation","Medical Center Circulation",Y,Y,N,5,90,2400,Y,12,19,RegularPrinter,Y,"mclcirc@mc.duke.edu"
 DKUCIRC,"Duke Kunshan Circulation","Duke Kunshan Circulation",Y,Y,N,5,90,2400,Y,13,22,RegularPrinter,Y,perkins-requests@duke.edu
 ARTAH,"AAHVS (Smith)","AAHVS (Smith)",Y,Y,N,5,90,2400,Y,14,10,RegularPrinter,Y,perkins-requests@duke.edu
 CDOCS,"Center for Documentary Studies","Center for Documentary Studies",Y,Y,N,5,90,2400,Y,15,10,RegularPrinter,Y,perkins-requests@duke.edu
@@ -14,7 +14,7 @@ LILLYCIRC,"Lilly Circulation","Lilly Circulation",Y,Y,N,5,90,2400,Y,2,15,Regular
 FHI,"Franklin Humanities Institute","Franklin Humanities Institute",Y,Y,N,5,90,2400,Y,20,10,RegularPrinter,Y,perkins-requests@duke.edu
 GROSS,Gross,Gross,Y,Y,N,5,90,2400,Y,21,10,RegularPrinter,Y,perkins-requests@duke.edu
 MCLPA,"MCL/PAs ONLY - 800 S. Duke St.","MCL PAs ONLY - 800 S. Duke St.",Y,Y,N,5,90,2400,Y,22,10,RegularPrinter,Y," mclcirc@mc.duke.edu"
-MCLDP,"MCL/DPTs ONLY - Erwin Square","MCL/DPTs ONLY - Erwin Square",Y,Y,N,5,90,2400,Y,23,10,RegularPrinter,Y," mclcirc@mc.duke.edu"
+MCLDP,"MCL/DPTs ONLY - Erwin Square","MCL/DPTs ONLY - Erwin Square",Y,Y,N,5,90,2400,Y,23,10,RegularPrinter,Y,"mclcirc@mc.duke.edu"
 MCSON,"MCL/SON ONLY - 307 Trent Drive","MCL/SON ONLY - 307 Trent Drive",Y,Y,N,5,90,2400,Y,24,10,RegularPrinter,Y," mclcirc@mc.duke.edu"
 BESCIRC,"BES Circulation","BES Circulation",Y,Y,N,5,90,2400,Y,3,10,RegularPrinter,Y,perkins-requests@duke.edu
 DIVCIRC,"Divinity Circulation","Divinity Circulation",Y,Y,N,5,90,2400,Y,4,12,RegularPrinter,Y,divcirc@duke.edu
