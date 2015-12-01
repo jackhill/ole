@@ -511,8 +511,4 @@
         <loadData tableName="ole_notc_cntnt_config_t" file="ole-inst/ole_notc_cntnt_config_t.csv" />
     </changeSet>
 
-    <changeSet context="demo" author="ole" id="krlc_cmp_t">
-        <loadData tableName="krlc_cmp_t" file="ole-inst/krlc_cmp_t.csv" />
-    </changeSet>
-
 </databaseChangeLog>
