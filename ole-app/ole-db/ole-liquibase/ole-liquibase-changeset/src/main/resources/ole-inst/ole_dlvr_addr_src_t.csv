@@ -1,0 +1,5 @@
+OLE_DLVR_SRC_ID,OLE_DLVR_SRC_CD,OLE_DLVR_SRC_DESC,OLE_DLVR_SRC_NM,OBJ_ID,VER_NBR,ROW_ACT_IND
+"5","LDAP","University Directory","University Directory","fef0bd0b-c232-4a56-8e80-8bf66dbed515",1,"Y"
+"6","OPPROTECTED","Operator Protected","Operator Protected","527e3787-58a4-4796-9200-9792b35d536e",1,"Y"
+"7","MANADDED","Manually Added by Operator","Manually Added","f0dd9585-42f1-42ee-bde9-439885e32808",1,"Y"
+"8","ALEPH","Aleph","Transferred from Aleph","3b416d68-ee07-47ae-b037-a4e00193faff",1,"Y"
