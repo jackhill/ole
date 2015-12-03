@@ -4,7 +4,11 @@
                    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.0.xsd
         http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd">
 
-
+	<!--Attributes-->
+	<changeSet context="demo" author="ole" id="krcr_parm_t">
+        <loadData tableName="krcr_parm_t" file="ole-inst/attributes/krcr_parm_t.csv"/>
+    </changeSet>		
+		
     <!--Chart of Accounts-->
     <changeSet context="demo" author="ole" id="ALTER_SESSIONS_FOR_ORACLE_ONLY" dbms="oracle">
         <sql>ALTER SESSION SET NLS_DATE_FORMAT = 'RRMMDDHH24MISS'</sql>
@@ -249,7 +253,7 @@
     </changeSet>
 
     <changeSet context="demo" author="ole" id="krlc_cmp_t">
-        <loadData tableName="krlc_cmp_t" file="ole-inst/attributes/krlc_cmp_t.csv"/>
+        <loadData tableName="krlc_cmp_t" file="ole-inst/krlc_cmp_t.csv"/>
     </changeSet>
     
        <changeSet context="demo" author="ole" id="krim_entity_t">
