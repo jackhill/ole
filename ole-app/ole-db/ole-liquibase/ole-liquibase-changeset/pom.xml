@@ -189,6 +189,7 @@
                                         <showSql>true</showSql>
                                         <delimiter>/</delimiter>
                                         <delimiterType>row</delimiterType>
+                                        <logLevel>debug</logLevel>
                                     </configuration>
                                 </execution>
                             </executions>
@@ -215,6 +216,7 @@
                                 <username>${sql.username}</username>
                                 <password>${sql.password}</password>
                                 <verbose>false</verbose>
+                                <logLevel>debug</logLevel>
                             </configuration>
 
                             <executions>
@@ -527,6 +529,7 @@
                                         <showSql>true</showSql>
                                         <delimiter>/</delimiter>
                                         <delimiterType>row</delimiterType>
+                                        <logLevel>debug</logLevel>
                                     </configuration>
                                 </execution>
                             </executions>
@@ -548,6 +551,7 @@
                                 <username>${sql.username}</username>
                                 <password>${sql.password}</password>
                                 <verbose>false</verbose>
+                                <logLevel>debug</logLevel>
                             </configuration>
 
                             <executions>
@@ -823,6 +827,7 @@
                                         <showSql>true</showSql>
                                         <delimiter>/</delimiter>
                                         <delimiterType>row</delimiterType>
+                                        <logLevel>debug</logLevel>
                                     </configuration>
                                 </execution>
                             </executions>
@@ -844,6 +849,7 @@
                                 <username>${sql.username}</username>
                                 <password>${sql.password}</password>
                                 <verbose>false</verbose>
+                                <logLevel>debug</logLevel>
                             </configuration>
 
                             <executions>
@@ -1111,6 +1117,7 @@
                                         <showSql>true</showSql>
                                         <delimiter>/</delimiter>
                                         <delimiterType>row</delimiterType>
+                                        <logLevel>debug</logLevel>
                                     </configuration>
                                 </execution>
                             </executions>
@@ -1137,6 +1144,7 @@
                                 <username>${sql.username}</username>
                                 <password>${sql.password}</password>
                                 <verbose>false</verbose>
+                                <logLevel>debug</logLevel>
                             </configuration>
 
                             <executions>
