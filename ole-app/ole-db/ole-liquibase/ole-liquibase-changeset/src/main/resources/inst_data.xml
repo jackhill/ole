@@ -260,6 +260,10 @@
         <loadData tableName="ole_dlvr_addr_src_t" file="ole-inst/ole_dlvr_addr_src_t.csv"/>
     </changeSet>
     
+	<changeSet context="demo" author="ole" id="ole_dlvr_src_t">
+        <loadData tableName="ole_dlvr_src_t" file="ole-inst/ole_dlvr_src_t.csv"/>
+    </changeSet>
+	
        <changeSet context="demo" author="ole" id="krim_entity_t">
         <loadData tableName="krim_entity_t" file="ole-inst/persons/krim_entity_t.csv"/>
     </changeSet>
