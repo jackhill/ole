@@ -346,10 +346,6 @@
         <loadData tableName="ole_cont_typ_t" file="ole-inst/ole_cont_typ_t.csv"/>
     </changeSet>
 
-    <changeSet context="demo" author="ole" id="ole_dlvr_src_t">
-        <loadData tableName="ole_dlvr_src_t" file="ole-inst/ole_dlvr_src_t.csv"/>
-    </changeSet>
-
     <changeSet context="demo" author="ole" id="KREW_PPL_FLW_MBR_T">
         <loadData tableName="KREW_PPL_FLW_MBR_T" file="ole-inst/ole_krew_ppl_flw_mbr_t.csv"/>
     </changeSet>
