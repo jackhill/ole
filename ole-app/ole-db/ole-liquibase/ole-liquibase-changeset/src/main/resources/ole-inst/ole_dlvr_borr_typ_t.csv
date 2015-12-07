@@ -1,10 +1,31 @@
-DLVR_BORR_TYP_ID,DLVR_BORR_TYP_CD,DLVR_BORR_TYP_DESC,DLVR_BORR_TYP_NM,OBJ_ID,VER_NBR,ROW_ACT_IND
-1,FAC,"Use for current Faculty",Faculty,d91f80e5-4340-462d-9b57-04f2d6ac005f,1,Y
-2,FACR,"User for retired Faculty",FacultyRetired,501eca3d-452f-41e7-9611-108f882c4be4,1,Y
-3,STAFF,"Use for Staff",Staff,474ba932-fd89-469d-86de-0a805f7bbb27,1,Y
-4,AVR,"Use for Affiliates, Visiting borrowers, Reciprocal users",AffVisRecip,2a932ae6-1fa0-4bde-aaab-e3a4abd75316,1,Y
-5,RES,"Use for Researcher",Researcher,c467eb0b-a237-489d-9c7f-1a17f1737e1a,1,Y
-6,GRAD,"Use for Graduate Students",Graduate,140618ab-eac5-4e3f-ba32-3b2e5015cd03,1,Y
-7,UGRAD,"Use for Undergraduate Students",UnderGrad,9837236f-ab3a-4353-bf25-508780126bdb,1,Y
-8,ALUM,"Use for Alumni",Alumni,72fb5c45-0c11-421c-bbbe-eebaeb5bbe16,1,Y
-9,GUEST,"Use for Courtesy, Non-Affiliated, Public, Guest borrowers",Guest,1b3eb90d-01a8-412c-9132-d6221b70b943,2,Y
+"DLVR_BORR_TYP_ID","DLVR_BORR_TYP_CD","DLVR_BORR_TYP_DESC","DLVR_BORR_TYP_NM","OBJ_ID,"VER_NBR","ROW_ACT_IND"
+"01","FACULTY","Faculty","Faculty","963ca209-8f74-4c26-82aa-39ac454a769b",1,"Y"
+"02","FQFACULTY","Fuqua Faculty","Fuqua Faculty","7e1b6b02-5041-4438-88a0-947c8ec904cb",1,"Y"
+"03","LWFACULTY","Law Faculty","Law Faculty","73e32824-3c92-496c-bc6d-35c996699247",1,"Y"
+"04","MDFACULTY","Medical Faculty","Medical Faculty","77e6b152-6ca6-4fb8-94e6-94d30aa5b971",1,"Y"
+"06","GRADST","Graduate Student","Graduate Student","6b8654e2-e089-407c-866d-1c6c412b87ba",1,"Y"
+"10","ILL","Interlibrary Loan","Interlibrary Loan","ec2e6ccc-a289-449a-b258-884751b94812",1,"Y"
+"11","ALUMNI","Alumni","Alumni","2467ac8c-3c5d-4731-972d-53acccfcd9eb",1,"Y"
+"12","CARREL","Carrel","Carrel","e91f631b-158e-46c0-8651-4ff8837c77af",1,"Y"
+"13","FQAFFL","Fuqua Affiliate","Fuqua Affiliate","cc20e7ad-69ce-485c-bece-bb32c890e715",1,"Y"
+"14","UNCGFS","UNC Grad Faculty Staff","UNC Grad Faculty Staff","d1539e0c-6fc4-49a7-8ab1-c51be7ba25bd",1,"Y"
+"15","PL4WK","Perkins System","Perkins System","2590841b-4103-414e-8bf8-fb31de29c063",1,"Y"
+"16","DUKE4WKGOLD","Duke 4 Week","Duke 4 Week","86c5fc5d-8a44-40d3-8c1c-9bf81d4270e8",1,"Y"
+"17","TRLN","TRLN","TRLN","3ed0cd9f-2f3b-46d1-9550-66ed82c62e8b",1,"Y"
+"18","DUKESTAFF","Duke Staff","Duke Staff","9930b87e-ff6e-4f8a-8237-0154afba7966",1,"Y"
+"19","SPECCOLL","Special Collections","Special Collections","4b475d8f-55e2-491c-b110-92354571b497",1,"Y"
+"20","HEALTHPROF","Health Professional","Health Professional","db905156-0b4e-4ff8-b9d4-adf7df52764f",1,"Y"
+"21","UG","Undergrad","Undergrad","a61dbed4-3235-4ec5-8dbd-a34e6abc1cda",1,"Y"
+"22","INVALID","Invalid","Invalid","989db6f9-3386-438e-a858-60df008560b7",1,"Y"
+"23","LIBDEPT","Library Department","Library Department","2d918761-309a-446f-96f6-229f57235131",1,"Y"
+"24","FQGRAD","Fuqua Grad","Fuqua Grad","2326f947-8154-4e89-a885-6abf137a6e80",1,"Y"
+"25","FQST","Fuqua Staff","Fuqua Staff","6c80642a-df46-4703-a74d-c9ed98b89ef1",1,"Y"
+"26","BINDERY","Bindery","Bindery","3d8529aa-06d9-4d8e-a8c5-2110b0c12690",1,"Y"
+"27","FQPHD","Fuqua PhD","Fuqua PhD","0b149054-f449-4405-8016-cab3d69f658c",1,"Y"
+"28","RETLIB","Retired Library Employee","Retired Library Employee","af2a0bb7-9aa5-4381-b5dd-4d6b7f3d4e3c",1,"Y"
+"29","FQPARTNER","Fuqua Partner","Fuqua Partner","b4642e20-116c-4c89-9e76-babbf83351b1",1,"Y"
+"30","LWALUMNI","Law Alumni","Law Alumni","b6328099-eabf-49fa-8ce4-60b336a25b88",2,"Y"
+"31","GUEST","Guest","Guest","820e1836-2384-4c3e-ac22-9e712dc59d2c",1,"Y"
+"32","BORDIR","BorrowDirect","BorrowDirect","f4ef3634-0ae3-46cf-87ee-4a54edb05764",1,"Y"
+"33","FRIENDSDUL","Friends of DUL","Friends of DUL","d166abf7-7ee0-46a3-8178-a6805f50fb65",1,"Y"
+
